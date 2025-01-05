@@ -2,7 +2,7 @@
 # ____________________
 
 # Read of PhysicalSound, a UK-based e-commerce company
-setwd("C:/Users/luish/OneDrive - University of Leeds/3. LUBS5308M01 Bus Analyt Decision Sci/coursework1")
+#setwd("C:/Users/luish/OneDrive - University of Leeds/3. LUBS5308M01 Bus Analyt Decision Sci/coursework1")
 data <- read.csv("order_july24.csv", header = TRUE, stringsAsFactors = TRUE)
 # Libraries
 library(mice)
